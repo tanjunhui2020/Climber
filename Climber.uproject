@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{84E795BF-403A-4981-A007-DE8B8519BF83}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Climber",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
